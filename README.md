@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @christinaheadley
-- 👀 I’m interested in making things and solving problems.
-- 🌱 I’m currently learning ruby vue react python javascript many more
-- 💞️ I’m looking to collaborate on making things and solving problems.
+- 👋 Hi, I’m @christinaheadley.
+- 👀 I’m interested in understanding systems, making things, and solving problems.
+- 🌱 I’m currently using ruby postgres react python javascript splunk rancher kubernetes & many more.
+- 💞️ I want to save you time that you didn't know could be reclaimed, reduce headaches, and put creative solutions in place.
 - 📫 How to reach me: https://christinaheadley.github.io/
 
 <!---
